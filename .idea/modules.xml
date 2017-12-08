@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\appu2\Downloads\AutoSlideshowAppkadai-master\AutoSlideshowAppkadai.iml" filepath="C:\Users\appu2\Downloads\AutoSlideshowAppkadai-master\AutoSlideshowAppkadai.iml" />
+      <module fileurl="file://C:\Users\appu2\Downloads\AutoSlideshowAppkadai-master-master\AutoSlideshowAppkadai-master.iml" filepath="C:\Users\appu2\Downloads\AutoSlideshowAppkadai-master-master\AutoSlideshowAppkadai-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoSlideshowAppkadai-master-master.iml" filepath="$PROJECT_DIR$/AutoSlideshowAppkadai-master-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\appu2\Downloads\AutoSlideshowAppkadai-master-master\app\app.iml" filepath="C:\Users\appu2\Downloads\AutoSlideshowAppkadai-master-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
